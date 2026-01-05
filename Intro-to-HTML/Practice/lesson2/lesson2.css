@@ -1,0 +1,33 @@
+.request-now-button {
+  background-color: black;
+  color: white;
+  border: none;
+  height: 35px;
+  width: 115px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.add-to-cart-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  height: 35px;
+  width: 180px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.sign-up-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  font-weight: bold;
+  font-sixe: 10px;
+  border: none;
+  height: 35px;
+  width: 70px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 8px;
+}
